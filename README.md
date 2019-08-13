@@ -21,6 +21,6 @@ then fill the json with your data and save it.
 Note: `If a password is given, the config removes it and replace the token with the token of the give user`
 
 ## Usage
-Invite the bot to a room. It will join automatically. Then reply on a message with `!grep <search pattern>` or `! grep <search pattern>`
+Invite the bot to a room. It will join automatically. Then reply on a message with <br>`!grep <search pattern>` or `! grep <search pattern>`
 <br>Note `Currently the bot only supports casesensitive search`
 <br>The nextBatch-file is a file you shouldnt delete unless you want to run all past !grep commands again because it saves the sync-state
