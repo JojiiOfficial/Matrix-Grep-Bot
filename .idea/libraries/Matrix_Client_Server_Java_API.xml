@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Matrix Client-Server Java API">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Matrix Client-Server Java API/out/artifacts/Matrix_Client_Server_Java_API_jar/Matrix Client-Server Java API.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
