@@ -19,7 +19,7 @@ Just run the bot once (`java -jar MatrixGrepBot.jar`) to create the config.json 
 then fill the json with your data and save it. Then start the bot again. Thats it.
 <br>
 Note: `If a password is given, the config removes it and replace the token with the token of the given user`
-If you want to use a bottoken, make the password to an empty string
+If you want to use a usertoken, be sure passwordoption is blank!
 
 ## Usage
 Invite the bot to a room. It will join automatically. Then reply on a message with <br>`!grep <search pattern>` or `! grep <search pattern>` <br>
