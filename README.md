@@ -16,11 +16,11 @@ Just run the bot once (`java -jar MatrixGrepBot.jar`) to create the config.json 
   "usertoken": ""
 }
 ```
-then fill the json with your data and save it.
+then fill the json with your data and save it. Then start the bot again. Thats it
 
 Note: `If a password is given, the config removes it and replace the token with the token of the give user`
 
 ## Usage
 Invite the bot to a room. It will join automatically. Then reply on a message with <br>`!grep <search pattern>` or `! grep <search pattern>` <br>
-<br>Note `Currently the bot only supports casesensitive search`
-<br>The nextBatch-file is a file you shouldnt delete unless you want to run all past !grep commands again because it saves the sync-state
+<br><br>Note `Currently the bot only supports casesensitive search`
+<br><br>The nextBatch-file is a file you shouldnt delete unless you want to run all past !grep commands again because it saves the sync-state
