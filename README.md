@@ -16,8 +16,8 @@ Just run the bot once (`java -jar MatrixGrepBot.jar`) to create the config.json 
   "usertoken": ""
 }
 ```
-then fill the json with your data and save it. Then start the bot again. Thats it
-
+then fill the json with your data and save it. Then start the bot again. Thats it.
+<br>
 Note: `If a password is given, the config removes it and replace the token with the token of the give user`
 
 ## Usage
