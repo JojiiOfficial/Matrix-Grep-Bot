@@ -1,2 +1,4 @@
 config.json
 nextBatch
+.idea
+out/production
