@@ -95,6 +95,7 @@ public class Main {
                         e.printStackTrace();
                     }
                 } else if (event.getType().equals("m.room.message")) {
+                    //Sends a readreceipt  for every received message
                     try {
                         c.sendReadReceipt(event.getRoom_id(), event.getEvent_id(), "m.read", null);
                     } catch (IOException e) {
