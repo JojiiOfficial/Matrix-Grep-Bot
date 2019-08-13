@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="MatrixGrepBot:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/MatrixGrepBot_jar</output-path>
-    <root id="archive" name="MatrixGrepBot.jar">
-      <element id="module-output" name="MatrixGrepBot" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/../Matrix Client-Server Java API/out/artifacts/Matrix_Client_Server_Java_API_jar/Matrix Client-Server Java API.jar" path-in-jar="/" />
-    </root>
-  </artifact>
-</component>
